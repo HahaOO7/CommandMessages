@@ -1,0 +1,8 @@
+name: CommandMessages
+version: '${project.version}'
+main: at.haha007.commandmessages.CommandMessages
+api-version: 1.18
+authors: [ Haha007 ]
+commands:
+  cmdmsg:
+    permission: commandmessages.reload
